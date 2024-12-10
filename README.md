@@ -10,22 +10,6 @@ I'm **Rahul Samedavar**, a passionate **Learner & Developer** exploring the fasc
 
 ---
 
-## 🛠 What I've Learned So Far:
-- **Frontend**: HTML, CSS, JavaScript and Pug
-- **Backend**: Flask, Node.js with Express  
-- **Database Management**: SQL  
-- **Game Development**: Pygame  
-- **UI Development**: Tkinter CustomTkinter  
-
----
-
-## 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-  yet to post blogs :)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 🏆 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aurogenic&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aurogenic&layout=compact&theme=radical)  
@@ -34,14 +18,14 @@ I'm **Rahul Samedavar**, a passionate **Learner & Developer** exploring the fasc
 ---
 
 ## 🌟 Recent Contributions:
-[![Ashutosh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aurogenic&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aurogenic&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## 🎯 Goals for 2024:
-- Deepen my knowledge in **AI/ML**  
-- Master advanced concepts in **Web Development**  
-- Create and publish a **Game Project**  
+## 📚 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+  yet to post blogs :)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
